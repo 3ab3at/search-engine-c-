@@ -1,0 +1,21 @@
+﻿  Graph.cpp
+C:\Users\abdel\source\repos\Project3\Project3\Graph.cpp(156,34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(96,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(97,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(98,28): warning C4244: '*=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(99,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(100,19): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(102,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abdel\source\repos\Project3\Project3\Source.cpp(117,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Trie.cpp
+  Generating Code...
+  Project3.vcxproj -> C:\Users\abdel\source\repos\Project3\x64\Debug\Project3.exe
